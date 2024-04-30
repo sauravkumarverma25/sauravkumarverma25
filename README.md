@@ -21,7 +21,7 @@
 
 --👨‍💻 Pronouns: He/Him
 
---⚡  Fun fact: Ask me for sketch, would never deny 😌 Fun fact
+--⚡  Fun fact: Ask me for Cricket, would never deny 😌 Fun fact
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
