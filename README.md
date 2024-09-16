@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Saurav Kumar Verma</h1>
 <h3 align="center">A passionate Web developer and Spring Boot Enthusiast from India</h3>
-<img align="right" alt="Coding" width="400" src="![image](https://github.com/user-attachments/assets/91901210-9ff0-49f8-8fc9-a1d7659c46a3)
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="500"
 ">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sauravkumarverma25&label=Profile%20views&color=0e75b6&style=flat" alt="sauravkumarverma25" /> </p>
